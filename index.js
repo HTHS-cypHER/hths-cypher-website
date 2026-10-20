@@ -1,5 +1,5 @@
 // Getting formated date from date string
-let deadline = new Date("april 17, 2027 15:37:25").getTime();
+let deadline = new Date("april 17, 2027 09:00:00").getTime();
 
 // Calling defined function at certain interval
 let x = setInterval(function () {
